@@ -1,0 +1,14 @@
+#ignorar archivos
+package.json
+
+#ignorar carpetas
+node_modules
+
+#ignorar subcarpetas
+nombrecarpeta/nombresubcarpeta
+
+#ignorar archivos de la misma extension
+
+*.txt
+*.gif
+
